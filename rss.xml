@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NestersAndNomads]]></title>
         <description><![CDATA[NestersAndNomads]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nestersandnomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 21:04:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 21:05:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nestersandnomads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d106040-0f1e-4891-acb1-56c16e432e76.jpg">]]></description>
+            <link>https://thegrid.ai/nestersandnomads/0a219371-f015-45ca-a5e9-28a2e41f86ad/index.html</link>
+            <guid isPermaLink="false">0a219371-f015-45ca-a5e9-28a2e41f86ad</guid>
+            <pubDate>Sun, 21 Feb 2016 21:04:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b58725d8-8d6e-40ed-9464-f63cc76c8166.jpg">]]></description>
-            <link>undefined6888aebd-259c-44aa-ae93-cf2b238fb69e/index.html</link>
+            <link>https://thegrid.ai/nestersandnomads/6888aebd-259c-44aa-ae93-cf2b238fb69e/index.html</link>
             <guid isPermaLink="false">6888aebd-259c-44aa-ae93-cf2b238fb69e</guid>
             <pubDate>Sun, 21 Feb 2016 21:04:19 GMT</pubDate>
         </item>
