@@ -1,0 +1,28 @@
+name: NestersAndNomads
+favicon: null
+layout_spectrum: 0.9161668228916824
+typography_spectrum: 0.9507253852207214
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6544022220186889
+  lightness: 0.9048189409077168
+  saturation: 0.8792723335791379
+  rhythmicContrast: 0.9191369153559208
+purpose: []
